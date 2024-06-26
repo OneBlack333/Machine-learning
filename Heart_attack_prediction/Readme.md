@@ -1,0 +1,2 @@
+The aim of this competition is to train a model to predict whether or not a patient is at high risk or low risk of a heart attack.
+This project aims to analyze and predict heart attack risk using patient data. Utilizing machine learning techniques, specifically a Logistic Regression, a model is built to predict the likelihood of a heart attack based on various health indicators. The process involves data loading, exploration, visualization, preprocessing, model training, evaluation, and prediction.
